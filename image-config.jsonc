@@ -1,0 +1,9 @@
+{
+  "profile_picture": "https://cdn.discordapp.com/attachments/1243242192940826728/1373117771852025958/Milo_Profile_-_May_2025.png",
+  // Not Implemented Yet, Just a Concept
+  "banners": [
+    { "url": "https://cdn.discordapp.com/attachments/1243242192940826728/1373126639751532645/Banner1-V1.png" },
+    { "url": "https://cdn.discordapp.com/attachments/1243242192940826728/1373126772689862706/Banner2-V1.png" },
+    { "url": "https://cdn.discordapp.com/attachments/1243242192940826728/1373126827987566723/Banner3-V1.png" }
+  ]
+}
