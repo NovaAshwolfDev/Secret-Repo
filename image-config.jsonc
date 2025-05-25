@@ -4,6 +4,7 @@
   "banners": [
     { "url": "https://raw.githubusercontent.com/NovaAshwolfDev/Secret-Repo/refs/heads/main/images/banners/Banner1-V1.png" },
     { "url": "https://raw.githubusercontent.com/NovaAshwolfDev/Secret-Repo/refs/heads/main/images/banners/Banner2-V1.png" },
-    { "url": "https://raw.githubusercontent.com/NovaAshwolfDev/Secret-Repo/refs/heads/main/images/banners/Banner3-V1.png" }
+    { "url": "https://raw.githubusercontent.com/NovaAshwolfDev/Secret-Repo/refs/heads/main/images/banners/Banner3-V1.png" },
+    { "url": "https://raw.githubusercontent.com/NovaAshwolfDev/Secret-Repo/refs/heads/main/images/banners/Banner4-V1.png" },
   ]
 }
