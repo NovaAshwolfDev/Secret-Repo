@@ -1,6 +1,9 @@
 {
-  "profile_picture": "https://raw.githubusercontent.com/NovaAshwolfDev/Secret-Repo/refs/heads/main/images/icons/Milo_Profile_May_2025.png",
+  "profile_picture": "https://raw.githubusercontent.com/NovaAshwolfDev/Secret-Repo/refs/heads/main/images/icons/Milo_Profile_July_2025.png",
   "banners": [
+    { "url": "https://raw.githubusercontent.com/NovaAshwolfDev/Secret-Repo/refs/heads/main/images/banners/Banner8-V1.png" },
+    { "url": "https://raw.githubusercontent.com/NovaAshwolfDev/Secret-Repo/refs/heads/main/images/banners/Banner7-V1.png" },
+    { "url": "https://raw.githubusercontent.com/NovaAshwolfDev/Secret-Repo/refs/heads/main/images/banners/Banner6-V1.png" },
     { "url": "https://raw.githubusercontent.com/NovaAshwolfDev/Secret-Repo/refs/heads/main/images/banners/Banner4-V1.png" },
     { "url": "https://raw.githubusercontent.com/NovaAshwolfDev/Secret-Repo/refs/heads/main/images/banners/Banner5-V1.png" },
     { "url": "https://raw.githubusercontent.com/NovaAshwolfDev/Secret-Repo/refs/heads/main/images/banners/Banner1-V1.png" },
